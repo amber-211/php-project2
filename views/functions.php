@@ -1,6 +1,6 @@
 <?php
 function get_data(){
-    $fname=CONFIG['data_file'];
+    $fname = CONFIG['data_file'];
     $json ='';
     if(!file_exist($fname)){
         // $handle = fopen($fname, 'w+');

@@ -3,8 +3,8 @@
 
 const CONFIG =[
 'data_file'=>'data.json',
-'user'=>[
-    'abc@admin.com'=>'1234'
+'users'=>[
+    'admin@admin.com'=>'1234'
 ]
 
 ];
